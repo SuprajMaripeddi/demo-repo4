@@ -2,5 +2,6 @@ EC2 - Compute service -t2 micro is the instance type
 EKS
 EBS
 push from master branch
+
 S3 -Object Storage
 VPC -Network service
