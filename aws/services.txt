@@ -1,5 +1,6 @@
 EC2
-
+EKS
+EBS
 
 S3
 
