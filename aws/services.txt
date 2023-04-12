@@ -1,7 +1,6 @@
-EC2
+EC2 - Compute service
 EKS
 EBS
 
-S3
-
-VPC
+S3 -Object Storage
+VPC -Network service
