@@ -1,4 +1,4 @@
-EC2 - Compute service
+EC2 - Compute service -t2 micro is the instance type
 EKS
 EBS
 
