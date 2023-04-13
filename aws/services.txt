@@ -2,6 +2,6 @@ EC2 - Compute service -t2 micro is the instance type
 EKS
 EBS
 bare commit
-push from aws branch
+push from aws 
 S3 -Object Storage
 VPC -Network service
