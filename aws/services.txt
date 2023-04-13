@@ -1,7 +1,1 @@
-EC2 - Compute service -t2 micro is the instance type
-EKS
-EBS
-bare commit
-push from aws 
-S3 -Object Storage
-VPC -Network service
+only one line im adding
