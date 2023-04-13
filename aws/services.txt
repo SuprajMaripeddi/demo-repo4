@@ -1,3 +1,1 @@
-only one line im adding
-adding new line
-add 3rd line
+checkign in git log
