@@ -1,4 +1,4 @@
-number=20
+number=30
 print(number)
 name="GIt"
 print(name)
